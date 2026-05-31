@@ -1,0 +1,42 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Database (user data, regenerable)
+backend/database.db
+
+# Node
+node_modules/
+frontend/package-lock.json
+
+# Android build
+frontend/android/build/
+frontend/android/.gradle/
+frontend/android/.idea/
+frontend/android/capacitor-cordova-android-plugins/
+frontend/android/app/build/
+frontend/android/app/.classpath
+frontend/android/app/.project
+frontend/android/local.properties
+
+# Temp & cache
+backend/temp/
+backend/__pycache__/
+backend/core/__pycache__/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# AI/editor config (not part of project)
+.agents/
+.vscode/
+AGENTS.md
+opencode.json
+skills-lock.json

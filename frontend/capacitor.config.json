@@ -1,0 +1,8 @@
+{
+  "appId": "com.alejo.shazammini",
+  "appName": "Shazam Mini",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "http"
+  }
+}
