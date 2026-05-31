@@ -1,4 +1,4 @@
-# Shazam Mini 🎵
+# Shazam Mini
 
 Clon funcional de Shazam para reconocimiento de canciones mediante huellas digitales de audio (audio fingerprinting). Permite identificar música desde el micrófono en tiempo real, buscar canciones cantando/ tarareando, y gestionar un historial y playlist personal.
 
