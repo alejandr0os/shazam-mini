@@ -5,9 +5,7 @@ Clon funcional de Shazam para reconocimiento de canciones mediante huellas digit
 ---
 
 ## Autores: 
-Alejandro Osorio Osorio
-Juan Esteban Villegas Montoya
-Juan Camilo Castaño Marulanda
+Alejandro Osorio Osorio, Juan Esteban Villegas Montoya y Juan Camilo Castaño Marulanda
 
 ## Características
 
