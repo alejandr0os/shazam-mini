@@ -4,6 +4,11 @@ Clon funcional de Shazam para reconocimiento de canciones mediante huellas digit
 
 ---
 
+## Autores: 
+Alejandro Osorio Osorio
+Juan Esteban Villegas Montoya
+Juan Camilo Castaño Marulanda
+
 ## Características
 
 - **Reconocimiento por fingerprinting:** Identifica canciones a partir de una grabación corta usando detección de picos espectrales y hash combinatorio
